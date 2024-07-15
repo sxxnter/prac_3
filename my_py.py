@@ -1,1 +1,1 @@
-print("How are you?.lower()")
+print("How are you?".lower())
